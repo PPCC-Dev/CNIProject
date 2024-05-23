@@ -1,0 +1,4747 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CNIProjet
+</name>
+</assembly>
+<members>
+<member name="T:CNIProjet.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:CNIProjet.My.MyWebExtension.Application">
+ <summary>
+ Returns information about the current application.
+ </summary>
+</member>
+<member name="P:CNIProjet.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:CNIProjet.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:CNIProjet.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:CNIProjet.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:CNIProjet.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="P:CNIProjet.My.MyWebExtension.WebServices">
+ <summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member>
+<member name="T:CNIProjet.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CNIProjet.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CNIProjet.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:CNIProjet.ChangePassword._ChangeUserPassword">
+<summary>
+ChangeUserPassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Login._RegisterHyperLink">
+<summary>
+RegisterHyperLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Login._LoginUser">
+<summary>
+LoginUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Register._RegisterUser">
+<summary>
+RegisterUser control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Register._RegisterUserWizardStep">
+<summary>
+RegisterUserWizardStep control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CheckStatus._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CheckStatus._lblbarcode">
+<summary>
+lblbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CheckStatus._txtbarcode">
+<summary>
+txtbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CheckStatus._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._ScriptManager1">
+<summary>
+ScriptManager1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._UpdatePanel1">
+<summary>
+UpdatePanel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._RadioConfirm">
+<summary>
+RadioConfirm control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._RadioChange">
+<summary>
+RadioChange control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._RadioReject">
+<summary>
+RadioReject control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._btnconfirm">
+<summary>
+btnconfirm control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._btnreset">
+<summary>
+btnreset control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._txtbarcode">
+<summary>
+txtbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._chkCancelTag">
+<summary>
+chkCancelTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblbarcode">
+<summary>
+lblbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._divScanDetail">
+<summary>
+divScanDetail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblCustNum">
+<summary>
+lblCustNum control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblCustDesc">
+<summary>
+lblCustDesc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblLoc">
+<summary>
+lblLoc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._divPickListDetail">
+<summary>
+divPickListDetail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblPickListNo">
+<summary>
+lblPickListNo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblTotalPickLine">
+<summary>
+lblTotalPickLine control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblTotalConfirm">
+<summary>
+lblTotalConfirm control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblScanCustItem">
+<summary>
+lblScanCustItem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblScanCustPO">
+<summary>
+lblScanCustPO control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblScanQty">
+<summary>
+lblScanQty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblCustItemTag">
+<summary>
+lblCustItemTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._Button2">
+<summary>
+Button2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._HiddenField1">
+<summary>
+HiddenField1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._HiddenField2">
+<summary>
+HiddenField2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._StatModelCorrect">
+<summary>
+StatModelCorrect control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblConrectTag">
+<summary>
+lblConrectTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblTextConrectTag">
+<summary>
+lblTextConrectTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._StatModelInCorrect">
+<summary>
+StatModelInCorrect control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblInConrectTag">
+<summary>
+lblInConrectTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblTextInConrectTag">
+<summary>
+lblTextInConrectTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._lblmsg">
+<summary>
+lblmsg control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._Image1">
+<summary>
+Image1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._Image2">
+<summary>
+Image2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._HidItemModel">
+<summary>
+HidItemModel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickList._HidCustItemModel">
+<summary>
+HidCustItemModel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickListDetail._LinkButton1">
+<summary>
+LinkButton1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickListDetail._btnback">
+<summary>
+btnback control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickListDetail._lblderco">
+<summary>
+lblderco control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickListDetail._lblconum">
+<summary>
+lblconum control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickListDetail._lblcoline">
+<summary>
+lblcoline control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickListDetail._lblcorelease">
+<summary>
+lblcorelease control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.ConfirmOrderPickListDetail._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCount._ddlwhse">
+<summary>
+ddlwhse control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCount._ddlProductCode">
+<summary>
+ddlProductCode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCount._txtbarcode">
+<summary>
+txtbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCount._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCount._txtprocess">
+<summary>
+txtprocess control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCount._txtdate">
+<summary>
+txtdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCount._ddlLoc">
+<summary>
+ddlLoc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCount._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountDetail._LinkButton1">
+<summary>
+LinkButton1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountDetail._btnback">
+<summary>
+btnback control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountDetail._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountQty._LinkButton1">
+<summary>
+LinkButton1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountQty._btnback">
+<summary>
+btnback control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountQty._lblitem">
+<summary>
+lblitem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountQty._lblLongDesc">
+<summary>
+lblLongDesc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountQty._lblLot">
+<summary>
+lblLot control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountQty._lblLoc">
+<summary>
+lblLoc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountQty._chkNonScanTag">
+<summary>
+chkNonScanTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountQty._txtCountQty">
+<summary>
+txtCountQty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountQty._lblRowPointer">
+<summary>
+lblRowPointer control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountQty._btncount">
+<summary>
+btncount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountQty._btncancel">
+<summary>
+btncancel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._LinkButton1">
+<summary>
+LinkButton1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._btnback">
+<summary>
+btnback control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._txtbarcode">
+<summary>
+txtbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._btnlasttag">
+<summary>
+btnlasttag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._lblTagID">
+<summary>
+lblTagID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._chkLastTag">
+<summary>
+chkLastTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._lblitem">
+<summary>
+lblitem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._lblLongDesc">
+<summary>
+lblLongDesc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._lblLot">
+<summary>
+lblLot control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._lblLoc">
+<summary>
+lblLoc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._lblOldTagQty">
+<summary>
+lblOldTagQty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._txtCountQty">
+<summary>
+txtCountQty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._lblRowPointer">
+<summary>
+lblRowPointer control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._btncount">
+<summary>
+btncount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._btncancel">
+<summary>
+btncancel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.CycleCountReviseTagQty._hidlasttag">
+<summary>
+hidlasttag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._btndetail">
+<summary>
+btndetail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._btnreset">
+<summary>
+btnreset control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._btnprocess">
+<summary>
+btnprocess control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._lblbarcode">
+<summary>
+lblbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._txtbarcode">
+<summary>
+txtbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._txtdate">
+<summary>
+txtdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._txtPONo">
+<summary>
+txtPONo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._txtWhse">
+<summary>
+txtWhse control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._txtvendname">
+<summary>
+txtvendname control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._txtvendVendInv">
+<summary>
+txtvendVendInv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._txtTotalLine">
+<summary>
+txtTotalLine control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._lblInvoceAmt">
+<summary>
+lblInvoceAmt control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._lblVAT">
+<summary>
+lblVAT control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._lblTotalInvoice">
+<summary>
+lblTotalInvoice control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._lblBarcodeDSNum">
+<summary>
+lblBarcodeDSNum control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._lblWebDeliveryReceive">
+<summary>
+lblWebDeliveryReceive control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._CountScanLine">
+<summary>
+CountScanLine control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DeliverySheetReceiving._AmtTotalFormat">
+<summary>
+AmtTotalFormat control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DSTagDetail._LinkButton1">
+<summary>
+LinkButton1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DSTagDetail._btnback">
+<summary>
+btnback control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DSTagDetail._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.DSTagDetail._AmtTotalFormat">
+<summary>
+AmtTotalFormat control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._btndetail">
+<summary>
+btndetail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._btnreset">
+<summary>
+btnreset control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._btnprocess">
+<summary>
+btnprocess control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._lblbarcode">
+<summary>
+lblbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._txtbarcode">
+<summary>
+txtbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._txtdate">
+<summary>
+txtdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._ddlGrnType">
+<summary>
+ddlGrnType control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._txtGRN">
+<summary>
+txtGRN control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._txtvendname">
+<summary>
+txtvendname control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._txtvendVendInv">
+<summary>
+txtvendVendInv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._txtWhse">
+<summary>
+txtWhse control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._txtTotalLine">
+<summary>
+txtTotalLine control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._btnvendorlot">
+<summary>
+btnvendorlot control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._lblBarcodeInvNum">
+<summary>
+lblBarcodeInvNum control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._lblBarcodeInvDate">
+<summary>
+lblBarcodeInvDate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._lblBarcodePoNum">
+<summary>
+lblBarcodePoNum control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._lblBarcodePoLine">
+<summary>
+lblBarcodePoLine control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._lblBarcodePoRelease">
+<summary>
+lblBarcodePoRelease control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GenerateGRN._lblBarcodeQtyDelivery">
+<summary>
+lblBarcodeQtyDelivery control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GRNDetail._LinkButton1">
+<summary>
+LinkButton1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GRNDetail._btnback">
+<summary>
+btnback control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GRNDetail._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GRNVendorLot._LinkButton1">
+<summary>
+LinkButton1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GRNVendorLot._btnback">
+<summary>
+btnback control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GRNVendorLot._btnsave">
+<summary>
+btnsave control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.GRNVendorLot._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTran._btndetail">
+<summary>
+btndetail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTran._btnreset">
+<summary>
+btnreset control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTran._btnprocess">
+<summary>
+btnprocess control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTran._btnstat">
+<summary>
+btnstat control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTran._chkCancelTag">
+<summary>
+chkCancelTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTran._lblbarcode">
+<summary>
+lblbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTran._txtbarcode">
+<summary>
+txtbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTran._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTran._txtdate">
+<summary>
+txtdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTran._txtjob">
+<summary>
+txtjob control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTran._txtsuffix">
+<summary>
+txtsuffix control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTran._txtOperNum">
+<summary>
+txtOperNum control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTran._txtWC">
+<summary>
+txtWC control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTran._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranDetail._LinkButton1">
+<summary>
+LinkButton1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranDetail._btnback">
+<summary>
+btnback control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranDetail._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._LinkButton1">
+<summary>
+LinkButton1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._btnback">
+<summary>
+btnback control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._lblbarcode">
+<summary>
+lblbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._txtbarcode">
+<summary>
+txtbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._ddlloc">
+<summary>
+ddlloc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._ddllot">
+<summary>
+ddllot control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._lblItem">
+<summary>
+lblItem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._lblItemDesc">
+<summary>
+lblItemDesc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._lblLot">
+<summary>
+lblLot control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._lblQtyOnHand">
+<summary>
+lblQtyOnHand control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._lblLoc">
+<summary>
+lblLoc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._lblQtyRequired">
+<summary>
+lblQtyRequired control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._lblQtyIssue">
+<summary>
+lblQtyIssue control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._lblQuantity">
+<summary>
+lblQuantity control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._txtQty">
+<summary>
+txtQty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._btnconfirm">
+<summary>
+btnconfirm control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._btncancel">
+<summary>
+btncancel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMatlTranIssueQty._DerPreassignLots">
+<summary>
+DerPreassignLots control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._ScriptManager1">
+<summary>
+ScriptManager1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._UpdatePanel1">
+<summary>
+UpdatePanel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._txtBarcode">
+<summary>
+txtBarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._btnSubmit">
+<summary>
+btnSubmit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._btnCancel">
+<summary>
+btnCancel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblbarcode">
+<summary>
+lblbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblJobText">
+<summary>
+lblJobText control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblJob">
+<summary>
+lblJob control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblSuffix">
+<summary>
+lblSuffix control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblJobStatus">
+<summary>
+lblJobStatus control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblItem">
+<summary>
+lblItem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblItemDesc">
+<summary>
+lblItemDesc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblOper">
+<summary>
+lblOper control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblwc">
+<summary>
+lblwc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblwcdesc">
+<summary>
+lblwcdesc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblQtyRelease">
+<summary>
+lblQtyRelease control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblQtyReceive">
+<summary>
+lblQtyReceive control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblQtyComplete">
+<summary>
+lblQtyComplete control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblQtyMove">
+<summary>
+lblQtyMove control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblresource">
+<summary>
+lblresource control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblresourceDesc">
+<summary>
+lblresourceDesc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblStartTime">
+<summary>
+lblStartTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblEndTime">
+<summary>
+lblEndTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._btnStart">
+<summary>
+btnStart control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._btnEnd">
+<summary>
+btnEnd control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._btnUnposted">
+<summary>
+btnUnposted control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._divJobRelease">
+<summary>
+divJobRelease control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblTotalJobOrder">
+<summary>
+lblTotalJobOrder control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblTotalInProcess">
+<summary>
+lblTotalInProcess control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblTotalNotStart">
+<summary>
+lblTotalNotStart control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblTotalNotComplete">
+<summary>
+lblTotalNotComplete control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._lblTotalNotUnposted">
+<summary>
+lblTotalNotUnposted control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._HiddenField1">
+<summary>
+HiddenField1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._UpdatePanel2">
+<summary>
+UpdatePanel2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._btnStartCancel">
+<summary>
+btnStartCancel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._btnStartConfrim">
+<summary>
+btnStartConfrim control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._txtdate">
+<summary>
+txtdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._txtStartdate">
+<summary>
+txtStartdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._txtStartTime">
+<summary>
+txtStartTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._ddlResource">
+<summary>
+ddlResource control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._txtResourceName">
+<summary>
+txtResourceName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._btnAddStart">
+<summary>
+btnAddStart control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._ResourceList">
+<summary>
+ResourceList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._UpdatePanel3">
+<summary>
+UpdatePanel3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._txtEnddate">
+<summary>
+txtEnddate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._txtEndTime">
+<summary>
+txtEndTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._txtEndResource">
+<summary>
+txtEndResource control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._txtEndResourceName">
+<summary>
+txtEndResourceName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._ddlReasonCode">
+<summary>
+ddlReasonCode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._txtReasonDesc">
+<summary>
+txtReasonDesc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._btnEndConfrim">
+<summary>
+btnEndConfrim control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._btnEndCancel">
+<summary>
+btnEndCancel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._HidItemModel">
+<summary>
+HidItemModel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobMonitoringStatus._HidCustItemModel">
+<summary>
+HidCustItemModel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._btndetail">
+<summary>
+btndetail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._btnreset">
+<summary>
+btnreset control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._btnprocess">
+<summary>
+btnprocess control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._btnstat">
+<summary>
+btnstat control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._lblbarcode">
+<summary>
+lblbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._txtbarcode">
+<summary>
+txtbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._HiddenField1">
+<summary>
+HiddenField1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._chkfraction">
+<summary>
+chkfraction control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._txtdate">
+<summary>
+txtdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._txtjob">
+<summary>
+txtjob control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._txtsuffix">
+<summary>
+txtsuffix control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._ddlitem">
+<summary>
+ddlitem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._txtoper">
+<summary>
+txtoper control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._txtqty">
+<summary>
+txtqty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._ddlloc">
+<summary>
+ddlloc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceipt._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceiptDetail._LinkButton1">
+<summary>
+LinkButton1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceiptDetail._btnback">
+<summary>
+btnback control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.JobReceiptDetail._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._divJobMonitoring">
+<summary>
+divJobMonitoring control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._LinkJobMonitoring">
+<summary>
+LinkJobMonitoring control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._divUnposted">
+<summary>
+divUnposted control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._LinkUnpostedJob">
+<summary>
+LinkUnpostedJob control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._divPrintProduction">
+<summary>
+divPrintProduction control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._LinkPrintProduction">
+<summary>
+LinkPrintProduction control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._divJobMatlTran">
+<summary>
+divJobMatlTran control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._LinkJobMatlTran">
+<summary>
+LinkJobMatlTran control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._divJobReceipt">
+<summary>
+divJobReceipt control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._LinkJobReceipt">
+<summary>
+LinkJobReceipt control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._divPrintWIP">
+<summary>
+divPrintWIP control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._LinkPrintWIP">
+<summary>
+LinkPrintWIP control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._divCycleCount">
+<summary>
+divCycleCount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._LinkCycleCount">
+<summary>
+LinkCycleCount control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._divConfirmShipping">
+<summary>
+divConfirmShipping control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._LinkConfirmShipping">
+<summary>
+LinkConfirmShipping control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._divConfirmOrderPick">
+<summary>
+divConfirmOrderPick control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._LinkConfirmOrderPick">
+<summary>
+LinkConfirmOrderPick control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._divPurchaseOrder">
+<summary>
+divPurchaseOrder control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._LinkPurchaseOrderRecpt">
+<summary>
+LinkPurchaseOrderRecpt control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._divCheckOrder">
+<summary>
+divCheckOrder control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._LinkCheckOrderPickListStatus">
+<summary>
+LinkCheckOrderPickListStatus control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._divQuantityMove">
+<summary>
+divQuantityMove control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._LinkQuantityMove">
+<summary>
+LinkQuantityMove control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._divDsReceive">
+<summary>
+divDsReceive control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Menu._LinkDsReceive">
+<summary>
+LinkDsReceive control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._ScriptManager1">
+<summary>
+ScriptManager1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._UpdatePanel1">
+<summary>
+UpdatePanel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._btnreset">
+<summary>
+btnreset control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._btnprocess">
+<summary>
+btnprocess control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._btnstat">
+<summary>
+btnstat control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._chkCancelTag">
+<summary>
+chkCancelTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._lblbarcode">
+<summary>
+lblbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._txtbarcode">
+<summary>
+txtbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._txtpicklistno">
+<summary>
+txtpicklistno control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._txtcustnum">
+<summary>
+txtcustnum control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._txtdescription">
+<summary>
+txtdescription control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._txtdate">
+<summary>
+txtdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._ddlreturncode">
+<summary>
+ddlreturncode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._lblValidate">
+<summary>
+lblValidate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._lblValidateCustItem">
+<summary>
+lblValidateCustItem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._txtValidateCustItem">
+<summary>
+txtValidateCustItem control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._lblValidateCustPo">
+<summary>
+lblValidateCustPo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._txtValidateCustPo">
+<summary>
+txtValidateCustPo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._lblValidateQty">
+<summary>
+lblValidateQty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._txtValidateQty">
+<summary>
+txtValidateQty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._lbltotallineconfirm">
+<summary>
+lbltotallineconfirm control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._Button2">
+<summary>
+Button2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._StatModelCorrect">
+<summary>
+StatModelCorrect control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._lblConrectTag">
+<summary>
+lblConrectTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._lblTextConrectTag">
+<summary>
+lblTextConrectTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._StatModelInCorrect">
+<summary>
+StatModelInCorrect control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._lblInConrectTag">
+<summary>
+lblInConrectTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._lblTextInConrectTag">
+<summary>
+lblTextInConrectTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._lblmsg">
+<summary>
+lblmsg control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._Image1">
+<summary>
+Image1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._Image2">
+<summary>
+Image2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._HiddenField2">
+<summary>
+HiddenField2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._HiddenField1">
+<summary>
+HiddenField1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._HidItemModel">
+<summary>
+HidItemModel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._HidCustItemModel">
+<summary>
+HidCustItemModel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._HiddenField3">
+<summary>
+HiddenField3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShipping._HiddenField4">
+<summary>
+HiddenField4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShippingDetail._LinkButton1">
+<summary>
+LinkButton1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShippingDetail._btnback">
+<summary>
+btnback control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShippingDetail._lblderco">
+<summary>
+lblderco control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShippingDetail._lblconum">
+<summary>
+lblconum control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShippingDetail._lblcoline">
+<summary>
+lblcoline control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShippingDetail._lblcorelease">
+<summary>
+lblcorelease control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.OrderShippingDetail._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._btndetail">
+<summary>
+btndetail control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._btnreset">
+<summary>
+btnreset control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._btnprocess">
+<summary>
+btnprocess control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._lblbarcode">
+<summary>
+lblbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._txtbarcode">
+<summary>
+txtbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._txtdate">
+<summary>
+txtdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._txtPONo">
+<summary>
+txtPONo control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._txtWhse">
+<summary>
+txtWhse control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._txtvendname">
+<summary>
+txtvendname control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._txtvendVendInv">
+<summary>
+txtvendVendInv control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._txtTotalLine">
+<summary>
+txtTotalLine control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._lblInvoceAmt">
+<summary>
+lblInvoceAmt control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._lblVAT">
+<summary>
+lblVAT control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._lblTotalInvoice">
+<summary>
+lblTotalInvoice control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._lblBarcodeDSNum">
+<summary>
+lblBarcodeDSNum control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._lblWebDeliveryReceive">
+<summary>
+lblWebDeliveryReceive control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._CountScanLine">
+<summary>
+CountScanLine control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POReceiving._AmtTotalFormat">
+<summary>
+AmtTotalFormat control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POTagDetail._LinkButton1">
+<summary>
+LinkButton1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POTagDetail._btnback">
+<summary>
+btnback control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POTagDetail._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.POTagDetail._AmtTotalFormat">
+<summary>
+AmtTotalFormat control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._lblbarcode">
+<summary>
+lblbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._txtbarcode">
+<summary>
+txtbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._RadioFuncionNew">
+<summary>
+RadioFuncionNew control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._RadioFuncionRePrint">
+<summary>
+RadioFuncionRePrint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._RadioFuncionSplitMerge">
+<summary>
+RadioFuncionSplitMerge control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._chkDelivery">
+<summary>
+chkDelivery control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._chkProductionTag">
+<summary>
+chkProductionTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._chkBoxTag">
+<summary>
+chkBoxTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._chkBagTag">
+<summary>
+chkBagTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._chkTradingPart">
+<summary>
+chkTradingPart control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._txtWhse">
+<summary>
+txtWhse control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._ddlStartJob">
+<summary>
+ddlStartJob control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._txtStartSuffix">
+<summary>
+txtStartSuffix control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._ddlEndJob">
+<summary>
+ddlEndJob control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._txtEndSuffix">
+<summary>
+txtEndSuffix control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._txtStartDate">
+<summary>
+txtStartDate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._txtEndDate">
+<summary>
+txtEndDate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._txtStartTagID">
+<summary>
+txtStartTagID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._txtEndTagID">
+<summary>
+txtEndTagID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._ddlStartPO">
+<summary>
+ddlStartPO control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._ddlStartPOLine">
+<summary>
+ddlStartPOLine control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._ddlStartPORelease">
+<summary>
+ddlStartPORelease control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._ddlEndPO">
+<summary>
+ddlEndPO control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._ddlEndPOLine">
+<summary>
+ddlEndPOLine control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._ddlEndPORelease">
+<summary>
+ddlEndPORelease control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._ddlStartTO">
+<summary>
+ddlStartTO control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._ddlStartTOLine">
+<summary>
+ddlStartTOLine control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._ddlEndTO">
+<summary>
+ddlEndTO control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._ddlEndTOLine">
+<summary>
+ddlEndTOLine control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._RadioSplit">
+<summary>
+RadioSplit control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._txtSplitTagID">
+<summary>
+txtSplitTagID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._txtSplitQty">
+<summary>
+txtSplitQty control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._RadioMerge">
+<summary>
+RadioMerge control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._txtMergeTagID">
+<summary>
+txtMergeTagID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._ddlLocFraction">
+<summary>
+ddlLocFraction control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._btnAdd">
+<summary>
+btnAdd control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._btnClearTag">
+<summary>
+btnClearTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._btnMerge">
+<summary>
+btnMerge control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._btnPreview">
+<summary>
+btnPreview control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._btnPrint">
+<summary>
+btnPrint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._btnClear">
+<summary>
+btnClear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._btnSelectAll">
+<summary>
+btnSelectAll control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._btnDeSelectAll">
+<summary>
+btnDeSelectAll control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.PrintProductionDeliveryTag._GridView1">
+<summary>
+GridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.QtyMove._lblbarcode">
+<summary>
+lblbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.QtyMove._txtbarcode">
+<summary>
+txtbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.QtyMove._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.QtyMove._txtdate">
+<summary>
+txtdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.QtyMove._ddlwhse">
+<summary>
+ddlwhse control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.QtyMove._ddlformloc">
+<summary>
+ddlformloc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.QtyMove._ddltoloc">
+<summary>
+ddltoloc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.QtyMove._txtdocumentnum">
+<summary>
+txtdocumentnum control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.QtyMove._btnswitchloc">
+<summary>
+btnswitchloc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.QtyMove._PanelList">
+<summary>
+PanelList control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Signin._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Signin._txtBarcode">
+<summary>
+txtBarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Signin._CheckBox">
+<summary>
+CheckBox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Signin._txtusername">
+<summary>
+txtusername control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Signin._txtpassword">
+<summary>
+txtpassword control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Signin._ddlconfig">
+<summary>
+ddlconfig control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Signin._btnlogin">
+<summary>
+btnlogin control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.SRN._head">
+<summary>
+head control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.SRN._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.SRN._lblwelcome">
+<summary>
+lblwelcome control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.SRN._ContentPlaceHolder1">
+<summary>
+ContentPlaceHolder1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Site._HeadContent">
+<summary>
+HeadContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Site._MasterPageScriptManager">
+<summary>
+MasterPageScriptManager control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Site._HeadLoginView">
+<summary>
+HeadLoginView control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Site._HeadHomeLink">
+<summary>
+HeadHomeLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Site._HeadAboutLink">
+<summary>
+HeadAboutLink control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Site._MainContent">
+<summary>
+MainContent control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.TagDetail._LinkButton1">
+<summary>
+LinkButton1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.TagDetail._btnback">
+<summary>
+btnback control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.TagDetail._GridView1">
+<summary>
+GridView1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._ScriptManager1">
+<summary>
+ScriptManager1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._UpdatePanel1">
+<summary>
+UpdatePanel1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._ActiveTabTextBox">
+<summary>
+ActiveTabTextBox control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._btnreset">
+<summary>
+btnreset control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._btnprocess">
+<summary>
+btnprocess control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._btnPrintPDTag">
+<summary>
+btnPrintPDTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._btnPrintWIPTag">
+<summary>
+btnPrintWIPTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._lblbarcode">
+<summary>
+lblbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._txtbarcode">
+<summary>
+txtbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._chkcancel">
+<summary>
+chkcancel control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._tab1">
+<summary>
+tab1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._tab2">
+<summary>
+tab2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._tab3">
+<summary>
+tab3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._tab4">
+<summary>
+tab4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._tab5">
+<summary>
+tab5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._btnPrevious">
+<summary>
+btnPrevious control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._btnNext">
+<summary>
+btnNext control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._txtjob">
+<summary>
+txtjob control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._lbljob">
+<summary>
+lbljob control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._lblSuffix">
+<summary>
+lblSuffix control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._lbloper">
+<summary>
+lbloper control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._ddltrantype">
+<summary>
+ddltrantype control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._txtdate">
+<summary>
+txtdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._ddlemployee">
+<summary>
+ddlemployee control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._txtwc">
+<summary>
+txtwc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._ddlResource">
+<summary>
+ddlResource control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._txtProdLine">
+<summary>
+txtProdLine control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._txtStartTime">
+<summary>
+txtStartTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._txtEndTime">
+<summary>
+txtEndTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._txttotalhour">
+<summary>
+txttotalhour control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._ddlSchedulingShift">
+<summary>
+ddlSchedulingShift control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._ddlmovetoloc">
+<summary>
+ddlmovetoloc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._PanelList1">
+<summary>
+PanelList1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._ChkQAQC">
+<summary>
+ChkQAQC control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._txtOperator">
+<summary>
+txtOperator control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._ddlscrapcode">
+<summary>
+ddlscrapcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._ddlItemScrapped">
+<summary>
+ddlItemScrapped control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._txtQtyScrap">
+<summary>
+txtQtyScrap control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._btnAddScrap">
+<summary>
+btnAddScrap control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._lbltotalscrap">
+<summary>
+lbltotalscrap control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._PanelList2">
+<summary>
+PanelList2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._PanelList4">
+<summary>
+PanelList4 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._PanelList5">
+<summary>
+PanelList5 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._Button2">
+<summary>
+Button2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._txtDownTimeTransDate">
+<summary>
+txtDownTimeTransDate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._txtDTStartTime">
+<summary>
+txtDTStartTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._txtDTEndTime">
+<summary>
+txtDTEndTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._txttotalhrsDT">
+<summary>
+txttotalhrsDT control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._ddldowntime">
+<summary>
+ddldowntime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._txtCauseBy">
+<summary>
+txtCauseBy control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._btnAddDowntime">
+<summary>
+btnAddDowntime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._PanelList3">
+<summary>
+PanelList3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._Label3">
+<summary>
+Label3 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._DigitStartTime">
+<summary>
+DigitStartTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._DigitEndTime">
+<summary>
+DigitEndTime control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._CntrlPoint">
+<summary>
+CntrlPoint control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._BflushError">
+<summary>
+BflushError control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._BflushMessage">
+<summary>
+BflushMessage control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._lblQtyCompleted">
+<summary>
+lblQtyCompleted control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._HiddenField1">
+<summary>
+HiddenField1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._WipTag">
+<summary>
+WipTag control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._DigitStartTimeDt">
+<summary>
+DigitStartTimeDt control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.Unposted._DigitEndTimeDt">
+<summary>
+DigitEndTimeDt control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._lblbarcode">
+<summary>
+lblbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._txtbarcode">
+<summary>
+txtbarcode control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._Button1">
+<summary>
+Button1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._checkfunction1">
+<summary>
+checkfunction1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._checkfunction2">
+<summary>
+checkfunction2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._RadioFormat1">
+<summary>
+RadioFormat1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._RadioFormat2">
+<summary>
+RadioFormat2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._deljob1">
+<summary>
+deljob1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._deljob1_suffix">
+<summary>
+deljob1_suffix control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._deljob2">
+<summary>
+deljob2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._deljob2_suffix">
+<summary>
+deljob2_suffix control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._startdate">
+<summary>
+startdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._enddate">
+<summary>
+enddate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._OperDd">
+<summary>
+OperDd control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._ckOper">
+<summary>
+ckOper control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._txtStartTagID">
+<summary>
+txtStartTagID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._txtEndTagID">
+<summary>
+txtEndTagID control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._txtarea">
+<summary>
+txtarea control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._preview">
+<summary>
+preview control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._print">
+<summary>
+print control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._btnclear">
+<summary>
+btnclear control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._BTSelectAll">
+<summary>
+BTSelectAll control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._BTDeSelectAll">
+<summary>
+BTDeSelectAll control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._GridView2">
+<summary>
+GridView2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._vBgTaskName">
+<summary>
+vBgTaskName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._vCheckFunciotn">
+<summary>
+vCheckFunciotn control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._vTagType">
+<summary>
+vTagType control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:CNIProjet.WIPTag._vCkeckOper">
+<summary>
+vCkeckOper control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
